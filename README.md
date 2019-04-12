@@ -5,3 +5,7 @@ Homebrew tap for my binaries.
 ```console
 brew install daniel-zahariev/tap/$APP
 ```
+
+### Apps
+
+- go-youtube-accrued-royalties - Command line tool for extracting records from YouTube accrued publishing royalties.
